@@ -9,6 +9,8 @@ This plugin allows a user to login/register with the discord OAuth.
 
 ## Installation
 
+You will need the (discord-bot)[https://github.com/nunogarciia/metarp-discord-bot].
+
 From the main directory of your `Rebar` framework.
 
 ```
